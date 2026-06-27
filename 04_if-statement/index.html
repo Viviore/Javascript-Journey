@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Age Checker</h3>
+    <input type="number" id="age">
+    <p id="ageStatus">Status:</p>
+    <button type="submit" id="submitAge">Submit</button>
+    <hr>
+    <h3>Student Checker</h3>
+    <form>
+        <input type="radio" name="isStudent" id="studentTrue" value="true">
+        <label for="studentTrue">Yes</label>
+        <input type="radio" name="isStudent" id="studentFalse" value="false">
+        <label for="studentFalse">No</label>
+        <p id="studentStatus">Status:</p>
+        <button type="submit" id="submitStudent">Submit</button>
+    </form>
+    <hr>
+    <h3>Graduate and Diploma Checker</h3>
+    <form>
+        <h4>Are You Student Graduate?</h4>
+        <input type="radio" name="isGraduate" id="graduateTrue" value="True">
+        <label for="graduateTrue">Yes</label>
+        <input type="radio" name="isGraduate" id="graduateFalse" value="False">
+        <label for="graduateFalse">No</label>
+        <div id="diplomaForm" style="display: none;">
+            <h4>Do you have diploma?</h4>
+            <input type="radio" name="isDiploma" id="diplomaTrue" value="True">
+            <label for="diplomaTrue">Yes</label>
+            <input type="radio" name="isDiploma" id="diplomaFalse" value="False">
+            <label for="diplomaFalse">No</label>
+        </div>
+        <p id="graduateStatus">Status:</p>
+        <button type="submit" id="submitGraduate">Submit</button>
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>
