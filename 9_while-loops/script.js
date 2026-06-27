@@ -1,4 +1,4 @@
-//while loop = repeat some code WHILE some condition is true
+//while loop = repeat some UNLIMITED until the code WHILE some condition is true
 
 let user = "";
 
