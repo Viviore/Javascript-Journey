@@ -11,16 +11,16 @@
 - [x] **If Statements & Strict Equality** *(Bro Code #10 & #18)*
 - [x] **Ternary Operator & Switches** *(Bro Code #12 & #13)* 👈 *React uses ternaries constantly inside JSX*
 - [x] **Logical Operators** (`&&`, `||`, `!`) *(Bro Code #17)* 👈 *React uses `&&` for short-circuit rendering*
-- [ ] **While & For Loops** *(Bro Code #19 & #20)*
-- [ ] 🏆 **Milestone Challenge:** Build the *Number Guessing Game* *(Bro Code #21)* from memory.
+- [x] **While & For Loops** *(Bro Code #19 & #20)*
+- [x] 🏆 **Milestone Challenge:** Build the *Number Guessing Game* *(Bro Code #21)* from memory.
 
 ---
 
 ## 🟨 Phase 2: Data, Randomness & Reusability
 *Target: 5–6 Days*
 
-- [ ] **Math Object & Random Numbers** *(Bro Code #8 & #9)*
-- [ ] **Checked Property** *(Bro Code #11)* 👈 *Helps understand form state handling later*
+- [x] **Math Object & Random Numbers** *(Bro Code #8 & #9)*
+- [x] **Checked Property** *(Bro Code #11)* 👈 *Helps understand form state handling later*
 - [ ] **Functions & Variable Scope** *(Bro Code #22 & #23)*
 - [ ] **Arrays** *(Bro Code #25)*
 - [ ] 🏆 **Milestone Challenge:** Build the *Temperature Conversion Program* *(Bro Code #24)*.
