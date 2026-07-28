@@ -21,7 +21,7 @@
 
 - [x] **Math Object & Random Numbers** *(Bro Code #8 & #9)*
 - [x] **Checked Property** *(Bro Code #11)* 👈 *Helps understand form state handling later*
-- [ ] **Functions & Variable Scope** *(Bro Code #22 & #23)*
+- [x] **Functions & Variable Scope** *(Bro Code #22 & #23)*
 - [ ] **Arrays** *(Bro Code #25)*
 - [ ] 🏆 **Milestone Challenge:** Build the *Temperature Conversion Program* *(Bro Code #24)*.
 
